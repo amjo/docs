@@ -497,10 +497,10 @@ are a few more tree-orientated permutations at your disposal.
 
        -  ...
        -  Work
-       -  Trips
+          -  Trips
 
-          -  ...
-          -  International
+             -  ...
+             -  International
 
     Using the id of "International" getPath will return each of the
     parents in turn (starting from the top). ::
